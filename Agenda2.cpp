@@ -1,4 +1,4 @@
-//Lucas Alixame
+//Lucas alixame
 #include <iostream>
 
 int main(int argc, char **argv)
